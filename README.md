@@ -1,7 +1,7 @@
 this project is visualizing earth as a 3D model.
 
 first you need to download this project and unzip files to a same folder.
-after that you need to download and install php to your computer.
+after that you need to download and install php to your computer.( https://windows.php.net/download/ )
 unzip php.zip to folder like "C:\php" .
 
 press windows + r to open run. and type as cmd.
